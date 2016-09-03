@@ -1,4 +1,4 @@
-# Malyshyts Dmitry Viktorovich
+#Малышиц Дмитрий Викторович ИСИТ №2
 lab 1
 echo "# lab-1" >> README.md
 git init
